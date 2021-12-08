@@ -1,0 +1,1 @@
+htmlTemplate("dist/index.html")
