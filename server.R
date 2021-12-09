@@ -4,5 +4,5 @@ library(shiny)
 shiny::addResourcePath("assets",file.path(here::here(),"dist","assets"))
 
 function(input, output, session) {
-  
+ 
 }
