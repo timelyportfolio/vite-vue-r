@@ -1,8 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-window.jQuery
-
 window.jQuery(document).on("shiny:connected", function () {
   // need to wait until shiny is connected before we can connect shiny and vue
   // hacks everywhere but proves the idea
